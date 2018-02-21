@@ -21,5 +21,4 @@ def remove_strawberry(contacts)
         :favorite_ice_cream_flavors.drop(1)
       else
       end
-      
-end
+    end
